@@ -23,18 +23,18 @@ body a
 
 body a:hover
 {
-    color: #f271ab;
+    color: #476A6F;
 }
 
 ::selection
 {
-    background: #f271ab;
+    background: #476A6F;
     color: #fff;
 }
 
 ::-moz-selection
 {
-    background: #f271ab; 
+    background: #476A6F; 
     color: #fff;
 }
 
@@ -89,12 +89,12 @@ body a:hover
 
 .carousel_pagination a:hover
 {
-    background-color: #f271ab;
+    background-color: #476A6F;
 }
 
 .carousel_pagination a.selected
 {
-    background-color: #f271ab;
+    background-color: #476A6F;
 }
 
 .featured-txt 
@@ -138,7 +138,7 @@ body a:hover
 
 .cd-headline.type .cd-words-wrapper.selected 
 {
-    background-color: #f271ab;
+    background-color: #476A6F;
 }
 
 .cd-headline.type .cd-words-wrapper.selected b
@@ -325,12 +325,12 @@ body a:hover
 
 .sm-clean li a.current, .sm-clean .current_page_item a 
 {
-    color: #f271ab;
+    color: #476A6F;
 }
 
 .main-menu.sm-clean a:hover 
 {
-    color: #f271ab;
+    color: #476A6F;
 }
 
 #header-main-menu .search-form
@@ -1012,8 +1012,8 @@ span.down:before
 }
 .contact-form input[type=submit]:hover
 {
-    color: #f271ab;
-    border-color: #f271ab;
+    color: #476A6F;
+    border-color: #476A6F;
 }
 
 .contact-form input[type=text]::-webkit-input-placeholder, .contact-form input[type=email]::-webkit-input-placeholder, .contact-form textarea::-webkit-input-placeholder
@@ -1130,7 +1130,7 @@ h4.widgettitle
 
 footer .fa-heart
 {
-    color: #f271ab;
+    color: #476A6F;
 }
 
 footer .fa-heart
