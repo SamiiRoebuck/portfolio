@@ -129,11 +129,6 @@ body a:hover
     display: inline-block; 
 }
 
-.header-logo img 
-{
-    width: 80px;
-    height: 95px;
-}
 
 .header-txt
 {
@@ -444,7 +439,7 @@ body a:hover
     position: relative;
     overflow: hidden;
     z-index: 2;
-    background-color: #fff;
+    background-color: #f6f6f6;
     padding-top: 50px;
 }
 
@@ -605,7 +600,7 @@ span.down:before
     padding-right: 2px;
     font-size: 13px;
     text-transform: uppercase;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
     color: #a5a5a5;
 }
 
@@ -1092,9 +1087,11 @@ span.down:before
 
 ul#footer-sidebar li.widget 
 {
-    width: 30.6%;
-    margin-right: 4%;
-    float: left;    
+    width: 100%;
+    padding: 20px 0;
+    max-width: 300px;
+    margin: 0 auto !important;
+    float: none;
 }
 
 ul#footer-sidebar li.widget:last-child
@@ -1363,14 +1360,7 @@ footer .fa-heart
         padding-left: 0;
     }
 
-    ul#footer-sidebar li.widget 
-    {
-        width: 100%;
-        padding: 20px 0;
-        max-width: 300px;
-        margin: 0 auto !important;
-        float: none;
-    }
+
 
 }
 
